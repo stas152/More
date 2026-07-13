@@ -1,2 +1,1 @@
-# Celestial_Hub
-Script universal
+# More for my scripting
